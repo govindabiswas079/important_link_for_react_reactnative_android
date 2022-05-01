@@ -1,0 +1,69 @@
+
+
+
+action="https://hooks.stripe.com/three_d_secure/redirect_complete/acct_1IEf6PIDYHdZy515/tdsrc_1KDjq5IDYHdZy515mPc1NYFS"
+
+https://github.com/sachindh97/responsivewebsiteangular12
+
+
+https://www.positronx.io/how-to-integrate-stripe-card-checkout-payment-gateway-in-angular/ -- stripe payment getway with angular
+
+https://stripe.com/en-in/guides/3d-secure-2
+https://www.youtube.com/watch?v=2kc-FjU2-mY
+
+
+
+
+https://hooks.stripe.com/three_d_secure/redirect_complete/acct_1IEf6PIDYHdZy515/tdsrc_1KEE2cIDYHdZy515Af15hgol
+https://stripe.com/docs/sources/three-d-secure#create-3ds-source
+https://github.com/Claeb101/3d-ripple-animation
+
+
+
+
+https://github.com/Fitpassu/react-native-stripe-payments
+https://stripe.com/docs/payments/3d-secure?platform=react-native#manual-three-ds
+https://www.npmjs.com/package/@stripe/stripe-react-native
+https://stripe.com/docs/payments/3d-secure#when-to-use-3d-secure
+https://stripe.com/docs/payments/payment-intents/upgrade-to-handle-actions?platform=web
+https://www.pluralsight.com/guides/how-to-integrate-stripe-with-react
+https://stripe.com/docs/payments/3d-secure#manual-three-ds -- manual authentication
+https://stripe.com/docs/error-codes#parameter-unknown --- stripe invalide parameter for paymentintent
+
+
+https://github.com/stripe-archive/react-stripe-elements/issues/215 - stripe Displaying the 3D Secure Flow in  reactjs
+
+
+This PaymentIntent pi_1KGzrcIDYHdZy515RDAW9Wpn cannot be confirmed using your publishable key because its 
+`confirmation_method` is set to `manual`. Please use your secret key instead, or create a PaymentIntent with 
+`confirmation_method` set to `automatic`.
+
+
+
+
+
+stripe card push manually{
+card: {
+    number: '4242424242424242',
+    exp_month: 1,
+    exp_year: 2023,
+    cvc: '314',
+  },
+}
+
+
+https://github.com/shashankcic/react-search
+https://reactjsexample.com/personal-search-app-with-react-hooks/
+https://reactjsexample.com/tag/search/
+
+ info@codefevertech.com
+
+
+https://bapunawarsaddam.medium.com/add-and-remove-form-fields-dynamically-using-react-and-react-hooks-3b033c3c0bf5 
+http://www.4codev.com/react/make-a-react-custom-scrollbar-component-idpx1452415391609641859.html
+
+https://github.com/HamzaAnwar1998/Upload-View-Pdf-In-Reactjs
+
+https://uploads.toptal.io/blog/image/121453/toptal-blog-image-1479215220540-1e0c8bf204637f14ea0477f7c29e8514.png
+
+

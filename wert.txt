@@ -1,0 +1,30 @@
+import android.view.KeyEvent;
+import android.webkit.WebView;
+
+WebView mWebView;
+    @Override
+    public boolean onKeyDown(int keyCode, KeyEvent event) {
+        if (event.getAction() == KeyEvent.ACTION_DOWN) {
+            switch (keyCode) {
+                case KeyEvent.KEYCODE_BACK:
+                    if (mWebView.canGoBack()) {
+                        mWebView.goBack();
+                    } else {
+                        finish();
+                    }
+                    return true;
+            }
+
+        }
+        return super.onKeyDown(keyCode, event);
+    }
+
+
+https://www.codehamster.com/codes/use-ionic-react-to-create-a-native-qr-code-scanner/
+https://www.dynamsoft.com/codepool/ionic-react-qr-code-scanner.html
+https://www.bacancytechnology.com/blog/integrate-paytm-payment-gateway-using-reactjs
+@mui/utils axios prop-types react-google-recaptcha react-icons react-select react-spring-bottom-sheet
+https://www.youtube.com/watch?v=erpw_22yAJM
+
+
+https://github.com/safak/youtube/tree/next-agency

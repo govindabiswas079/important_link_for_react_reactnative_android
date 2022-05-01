@@ -1,0 +1,18 @@
+saura
+(16:34:25) https://github.com/bmvantunes/stripe-3d-secure
+
+Prem
+(16:43:28) http://192.168.1.5:3000
+
+saura
+(16:50:00) hi
+
+Prem
+(16:50:29) http://192.168.1.5:3000
+
+saura
+(17:01:34) https://github.com/atharvadeosthale/stripe-react-3d-secure
+(17:11:34) sk_test_51JbiduDkaLqVM0fkeVwyAxnsHMJpGUowMHZRcFSD7YvZ3Yx73JXXwWpbBmJcJwuVMIq0Y9OAHiFJlvbRvlCQlFiO00gg7gKRt3
+(17:29:33) https://github.com/charangowda845/Stripe-SCA-Implementation-React-Native
+
+https://sca.etechios.com/

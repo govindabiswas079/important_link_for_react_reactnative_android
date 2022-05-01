@@ -1,0 +1,39 @@
+<br />
+      <br />
+      <form>
+        <input type='text' name='' onChange={(e) => setValue({ ...value, number: e.target.value })} value={value.number} placeholder="Cad number" />
+        <input type='text' name='' onChange={(e) => setValue({ ...value, cvc: e.target.value })} value={value.cvc} placeholder="cvv" />
+        <input type='text' name='' onChange={(e) => setValue({ ...value, exp_year: e.target.value })} value={value.exp_year} placeholder="date" />
+        <input type='text' name='' onChange={(e) => setValue({ ...value, zip: e.target.value })} value={value.zip} placeholder="zip" />
+      </form>
+
+
+
+const [value, setValue] = React.useState({
+                    number: '',
+                    cvc: '',
+                    exp_month: '',
+                    exp_year: '',
+                    zip: ''
+                  });
+                
+                  var data = ({
+                    type: 'card',
+                    card: {
+                      cardNumber: value.number,
+                      cardExpiry: value.exp_year,
+                      cardCvc: value.cvc,
+                      postalCode: value.zip
+                    }
+                  })
+
+
+
+
+https://codesandbox.io/s/gift-box-css-v1vrb?from-embed=&file=/src/GiftBoxAnimation.js:153-157
+
+https://codepen.io/RoyLee0702/pen/RwNgVya
+
+https://codesandbox.io/s/react-slide-toggle-y3tpn
+
+https://betterprogramming.pub/how-to-create-a-swipeable-button-in-javascript-react-c8d1214a0c20
